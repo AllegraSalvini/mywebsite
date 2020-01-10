@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_Image: exampleSite/static/images/geo.jpeg
+  bg_Image: exampleSite/static/images/slider/hero-area.jpeg
   icon: ''
   title: Allegra Salvini
   content: Writer, Blogger, Activist, Human rights enthusiasts
